@@ -66,7 +66,7 @@
 - 生成公钥,和私钥
   + `ssh-keygen -t rsa -C "xiaoming@sina.com"`
 
-## 在push和pull操作进
+## push和pull操作冲突
 
 - 先pull , 再push
 
