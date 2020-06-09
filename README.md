@@ -68,7 +68,7 @@
 
 ## push和pull操作冲突
 
-- 先pull , 再push
+- 先pull , 再push。
 
 - 当我们在push时，加上-u参数，那么在下一次push时
   我们只需要写上`git push`就能上传我们的代码。(加上-u之后，git会把
